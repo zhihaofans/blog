@@ -1,4 +1,4 @@
 # zhihaofans 's blog
 
 
-### [Articles](/zhihaofans/blog/issues)
+### [Articles](https://github.com/zhihaofans/blog/issues)
